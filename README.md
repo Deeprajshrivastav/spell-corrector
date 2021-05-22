@@ -1,2 +1,2 @@
 # spell-corrector
-Spell-corrector is a GUI application that correct wrong word. 
+A simple gui application in python that correct the wrong word. 
